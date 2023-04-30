@@ -1,2 +1,3 @@
 #readme.md
-project python v2
+project python v1
+added changes to the readme
